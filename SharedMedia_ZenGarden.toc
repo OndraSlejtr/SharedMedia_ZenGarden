@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: |c34EB7100<WA Sounds>|r |cff69ccf0by Zen Garden|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
